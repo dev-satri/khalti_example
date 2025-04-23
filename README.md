@@ -109,12 +109,13 @@ flutter pub get
 ```
 
 ---
-
 ## 📸 Screenshots
 
-<img src ="image1.jpg" alt="payment_page">
-<img src ="image2.jpg" alt="khalti_interface">
+### Payment Page
+<img src="image1.jpg" alt="Payment Page" width="300"/>
 
+### Khalti Interface
+<img src="image2.jpg" alt="Khalti Interface" width="300"/>
 ---
 
 ## ❗ Additional Notes
