@@ -116,6 +116,7 @@ flutter pub get
 
 ### Khalti Interface
 <img src="image2.jpg" alt="Khalti Interface" width="300"/>
+
 ---
 
 ## ❗ Additional Notes
