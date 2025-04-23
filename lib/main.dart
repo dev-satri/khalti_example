@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:khalti_example/payment_page.dart';
+import 'package:khalti_example/home_page.dart';
 import 'package:khalti_flutter/khalti_flutter.dart';
 
 void main() {
